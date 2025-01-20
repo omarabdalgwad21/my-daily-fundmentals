@@ -3,13 +3,13 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000;
+    background-color: #364b60;
     color: #fff;
 }
 
 /* تنسيق الهيدر */
 header {
-    background: linear-gradient(45deg, #ff4b2b, #ff416c);
+    background: linear-gradient(45deg, #2b8aff, #ff416c);
     padding: 15px;
 }
 
@@ -31,7 +31,7 @@ nav ul li {
     font-weight: bold;
     padding: 8px 16px;
     border-radius: 5px;
-    background-color: #333;
+    background-color:  #f74222;
     transition: all 0.3s ease;
 }
 
@@ -49,7 +49,7 @@ nav ul li {
 }
 
 .card {
-    background-color: #222;
+    background-color: #e9501d;
     color: #fff;
     padding: 20px;
     width: 45%;
@@ -76,7 +76,7 @@ nav ul li {
 
 /* تأثيرات الأزرار */
 .download-btn {
-    background-color: #1e90ff;
+    background-color: #fa5151;
     padding: 15px 30px;
     color: #fff;
     text-decoration: none;
@@ -98,7 +98,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: #111;
+    background-color: #000000;
     color: #fff;
     text-align: center;
     padding: 10px 0;
@@ -141,7 +141,7 @@ footer a:hover {
 }
 
 .card {
-    background-color: #222;
+    background-color: #00aaff;
     color: #fff;
     padding: 20px;
     width: 45%; /* الكروت تأخذ 45% من العرض */
@@ -172,7 +172,7 @@ footer a:hover {
 
 /* تنسيق الأزرار داخل الكارت */
 .card a {
-    background-color: #1e90ff;
+    background-color: #7abafa;
     padding: 12px 24px;
     color: #fff;
     text-decoration: none;
@@ -184,7 +184,7 @@ footer a:hover {
 }
 
 .card a:hover {
-    background-color: #4682b4;
+    background-color: #ff4242;
     transform: scale(1.1);
     transition: transform 0.3s ease;
 }
